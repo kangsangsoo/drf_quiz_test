@@ -1,0 +1,8 @@
+__pycahce__/
+*.py[cod]
+
+.Python
+vevn/
+
+db.sqlite3
+.DS_Store
